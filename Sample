@@ -1,0 +1,1 @@
+.gitignore file is  used when we dont want a particular file to be uploaded on git. That file should be added a to gitignore.
